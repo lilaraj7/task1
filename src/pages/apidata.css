@@ -1,0 +1,15 @@
+.new-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+.main-name{
+    display: flex;
+    border: 1px solid green;
+}
+.main-email{
+    display: flex;
+    border: 1px solid green;
+}
